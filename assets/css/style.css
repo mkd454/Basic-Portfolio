@@ -88,6 +88,17 @@ a:active {
     color: #777777;
 }
 
+a:hover {
+    background-color: #4aaaa5;
+    padding: 10px;
+    text-decoration: none;
+    color:#ffffff;
+}
+
+input[type=submit]:hover {
+    font-weight: bold;
+}
+
 h2 {
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
